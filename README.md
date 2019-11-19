@@ -6,3 +6,4 @@ Uses NTP for accurate logging, also ArduinoOTA for Over The Air programming, mDN
 Based on Eva Schindling's https://github.com/evsc/ThunderAndLightning
 Hardware, NodeMCU https://cmheong.blogspot.com/2019/10/thunderbolts-and-lightning-detector.html
 Hardware, relay module https://cmheong.blogspot.com/2019/11/lightning-detector-as3935-adding-serial.html
+Installation, software https://cmheong.blogspot.com/2019/11/lightning-detector-as3935-part-3-of-3.html
